@@ -1,7 +1,36 @@
-# Tauri + React
+# Color Theme Generator
 
-This template should help get you started developing with Tauri and React in Vite.
+Build a Tauri app that uses Rust color crates to generate 10 colors from a base color.
 
-## Recommended IDE Setup
+## Screenshots
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![App Screenshot](123)
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/suprunchuk/tauri-color-theme-generator.git
+```
+
+Go to the project directory
+
+```bash
+cd tauri-color-theme-generator
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Start the server
+
+```bash
+npm run tauri dev
+```
+
