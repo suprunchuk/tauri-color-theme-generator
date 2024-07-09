@@ -11,6 +11,8 @@ function App() {
         color={color}
         onChange={(color, event) => {
           setColor(color);
+          console.log(color)
+          invoke("generate_gradient", color.rgb)
         }}
       />
     </div>
