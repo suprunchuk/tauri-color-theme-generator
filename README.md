@@ -4,7 +4,7 @@ Build a Tauri app that uses Rust color crates to generate 10 colors from a base 
 
 ## Screenshots
 
-![App Screenshot](123)
+![App Screenshot](/src/assets/screenshot.png)
 
 
 
