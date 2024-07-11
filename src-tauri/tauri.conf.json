@@ -7,7 +7,7 @@
   },
   "package": {
     "productName": "tauri-color-theme-generator",
-    "version": "0.0.0"
+    "version": "1.0.0"
   },
   "tauri": {
     "allowlist": {
@@ -19,9 +19,9 @@
     },
     "windows": [
       {
-        "title": "tauri-color-theme-generator",
-        "width": 800,
-        "height": 600
+        "title": "Color theme generator",
+        "width": 900,
+        "height": 900
       }
     ],
     "security": {
@@ -30,7 +30,7 @@
     "bundle": {
       "active": true,
       "targets": "all",
-      "identifier": "com.tauri.dev",
+      "identifier": "Pasha Suprunchuk",
       "icon": [
         "icons/32x32.png",
         "icons/128x128.png",
