@@ -6,7 +6,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "tauri-color-theme-generator",
+    "productName": "Color theme generator",
     "version": "1.0.0"
   },
   "tauri": {
